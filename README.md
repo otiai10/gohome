@@ -11,6 +11,6 @@ go get github.com/otiai10/gohome
 # Usage
 
 ```
-cd ~/$GOPATH/src/github.com/otiai10/gohome
+cd $GOPATH/src/github.com/otiai10/gohome
 go run home.go
 ```
